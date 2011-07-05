@@ -1,0 +1,9 @@
+backup of my openbox
+<2011-07-05>
+
+openbox + tint2 + xterm
+
+cp openbox & tint2 files to ~/.config
+
+update ~/.Xreources :
+$ xrdb -merge ~/.Xresources
